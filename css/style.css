@@ -1,0 +1,49 @@
+body{
+    background-color: #ffe0e6;
+    color: #ff5072;
+    ;
+}
+h1{
+    font-size: 80px;
+}
+h3{
+    font-family: "PT Serif", serif;
+}
+h1,h2{
+    font-family: "DM Sans", sans-serif;
+}
+.btn{
+    background-color: #b54259;
+    width: 200px;
+    height: 60px;
+    color: white;
+}
+.btn:hover{
+    background-color: #ff5072;
+    color: white;
+}
+.tleft{
+    top: 0;
+    left: 0;
+}
+.tright{
+    top: 0;
+    right: 0;
+}
+.bleft{
+    bottom: 0;
+    left: 0;
+}
+.bright{
+    bottom: 0;
+    right: 0;
+
+}
+.tmiddle{
+    top: 0;
+    left: 50%; 
+}
+.bmiddle{
+    bottom: 0;
+    left: 50%; 
+}
